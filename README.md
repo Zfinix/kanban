@@ -6,7 +6,7 @@ A flutter desktop UI implementation.
   <img src="https://raw.githubusercontent.com/Zfinix/kanban/master/screenshot/splash.gif" width="1500" />
   
 ## Notes (Apply Caution)
-Fore some reason ReorderableListView has a Material Widget with a shadow i had to remove mine to make the UI cleaner the file is at:
+For some reason ReorderableListView has a Material Widget with a shadow i had to remove mine to make the UI cleaner the file is at:
     ```
     /flutter/packages/flutter/lib/src/material/reorderable_list.dart
     ```
