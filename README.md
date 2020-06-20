@@ -11,4 +11,4 @@ Fore some reason ReorderableListView has a Material Widget with a shadow i had t
     /flutter/packages/flutter/lib/src/material/reorderable_list.dart
     ```
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Zfinix/kanban/master/screenshot/splash.png" width="1500" />
+  <img src="https://raw.githubusercontent.com/Zfinix/kanban/master/screenshot/info.png" width="1500" />
